@@ -1,1 +1,1 @@
-# ProjectsUsingBootstrap
+# Collection of responsive static websites built using HTML, CSS, and Bootstrap. Projects include TSPSC Web Page, MSSoftService, MSsoft Code, MSsoft Non-Coding, MSsoft Home, and MSsoft Menu — focused on clean UI, consistent layout and mobile-friendly design.
